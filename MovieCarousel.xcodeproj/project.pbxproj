@@ -13,6 +13,7 @@
 		985CDEDF2A98D95200634854 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 985CDEDD2A98D95200634854 /* Main.storyboard */; };
 		985CDEE12A98D95400634854 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 985CDEE02A98D95400634854 /* Assets.xcassets */; };
 		985CDEE42A98D95400634854 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 985CDEE22A98D95400634854 /* LaunchScreen.storyboard */; };
+		985CDEEC2A98E00B00634854 /* MoviesCVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 985CDEEB2A98E00B00634854 /* MoviesCVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		985CDEE02A98D95400634854 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		985CDEE32A98D95400634854 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		985CDEE52A98D95400634854 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		985CDEEB2A98E00B00634854 /* MoviesCVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesCVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				985CDED72A98D95200634854 /* AppDelegate.swift */,
 				985CDED92A98D95200634854 /* SceneDelegate.swift */,
 				985CDEDB2A98D95200634854 /* ViewController.swift */,
+				985CDEEB2A98E00B00634854 /* MoviesCVC.swift */,
 				985CDEDD2A98D95200634854 /* Main.storyboard */,
 				985CDEE02A98D95400634854 /* Assets.xcassets */,
 				985CDEE22A98D95400634854 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				985CDEDC2A98D95200634854 /* ViewController.swift in Sources */,
+				985CDEEC2A98E00B00634854 /* MoviesCVC.swift in Sources */,
 				985CDED82A98D95200634854 /* AppDelegate.swift in Sources */,
 				985CDEDA2A98D95200634854 /* SceneDelegate.swift in Sources */,
 			);
