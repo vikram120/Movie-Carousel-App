@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		983445EF2AF274B000293D3E /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 983445EE2AF274B000293D3E /* UIView+Extension.swift */; };
 		985CDED82A98D95200634854 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 985CDED72A98D95200634854 /* AppDelegate.swift */; };
 		985CDEDA2A98D95200634854 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 985CDED92A98D95200634854 /* SceneDelegate.swift */; };
 		985CDEDC2A98D95200634854 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 985CDEDB2A98D95200634854 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		983445EE2AF274B000293D3E /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		985CDED42A98D95200634854 /* MovieCarousel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieCarousel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		985CDED72A98D95200634854 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		985CDED92A98D95200634854 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				985CDEE02A98D95400634854 /* Assets.xcassets */,
 				985CDEE22A98D95400634854 /* LaunchScreen.storyboard */,
 				985CDEE52A98D95400634854 /* Info.plist */,
+				983445EE2AF274B000293D3E /* UIView+Extension.swift */,
 			);
 			path = MovieCarousel;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				985CDEDC2A98D95200634854 /* ViewController.swift in Sources */,
 				985CDEEC2A98E00B00634854 /* MoviesCVC.swift in Sources */,
 				985CDED82A98D95200634854 /* AppDelegate.swift in Sources */,
+				983445EF2AF274B000293D3E /* UIView+Extension.swift in Sources */,
 				985CDEDA2A98D95200634854 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
